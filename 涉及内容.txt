@@ -1,0 +1,4 @@
+js£º
+http://www.ruanyifeng.com/blog/2012/11/require_js.html
+http://www.ruanyifeng.com/blog/2017/03/reduce_transduce.html
+https://dev.opera.com/articles/javascript-array-extras-in-detail/
